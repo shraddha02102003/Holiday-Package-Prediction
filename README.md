@@ -1,2 +1,2 @@
-Built a machine learning model to predict if customers will purchase a holiday package based on demographic and travel history data.
+Build machine learning model to predict if customers will purchase a holiday package based on demographic and travel history data.
 Applied data cleaning, EDA, and feature engineering to prepare the dataset for modeling.
